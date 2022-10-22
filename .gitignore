@@ -1,0 +1,16 @@
+/env.sh
+/.DS_Store
+/temp
+/test.env
+testCoverageRaw.out
+testCoverage.out
+/output
+_REVISION
+_VERSION
+testCoverage.html
+testCoverage.xml
+testReport.xml
+testReportUnclean.xml
+testResult.out
+/_deploy
+deploy.tar.gz
